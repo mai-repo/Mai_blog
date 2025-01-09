@@ -1,4 +1,4 @@
-# A requirements file for the project containing the dependencies. 
+# A requirements file for the project containing the dependencies. It will show all the dependencies that are required for the project to run.
 
 
 a2wsgi==1.10.7
